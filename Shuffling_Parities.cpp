@@ -1,4 +1,5 @@
 //Shuffling_Parities
+//https://www.codechef.com/SEPT21C/problems/SHUFFLIN
 
 //#include<bits/stdc++.h>
 

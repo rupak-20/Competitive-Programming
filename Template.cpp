@@ -42,6 +42,10 @@ typedef vector<vl> vvl;
 #define MAX INT_MAX
 #define MIN INT_MIN
 #define all(x) x.begin(), x.end()
+#define pb push_back
+#define mp make_pair
+#define ff first
+#define ss second
 
 // loop
 #define fo(a, b, c) for (int(a) = (b); (a)<(c); ++(a))

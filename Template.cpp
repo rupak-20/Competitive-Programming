@@ -1,9 +1,9 @@
 //
 //
 
-//#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 
-#include<vector>
+//#include<vector>
 //#include<queue>
 //#include<stack>
 //#include<set>
@@ -15,13 +15,13 @@
 
 //#include<priority_queue>
 
-#include<iostream>
-#include<algorithm>
+//#include<iostream>
+//#include<algorithm>
 //#include<string>
 //#include<stdlib.h>
 //#include<math.h>
 //#include<time.h>
-#include<climits>
+//#include<climits>
 
 using namespace std;
 
@@ -77,7 +77,7 @@ int main() {
     while(Test--) {
         //solution start
 
-        
+        cout<<"hello\n";
 
         //solution end
     }

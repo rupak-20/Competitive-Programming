@@ -13,8 +13,6 @@
 //#include<deque>
 //#include<utility>
 
-//#include<priority_queue>
-
 //#include<iostream>
 //#include<algorithm>
 //#include<string>
@@ -77,7 +75,7 @@ int main() {
     while(Test--) {
         //solution start
 
-        cout<<"hello\n";
+        
 
         //solution end
     }
